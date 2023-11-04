@@ -8,6 +8,13 @@
 
 ![3](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/dc4185e6-4dbe-419e-8fe5-6a29159085b9)
 
+# Suppression d'une filière
+
+![10](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/37f013e9-cce5-400a-a481-a78da7ff6128)
+
+![11](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/d8ae902d-4cb0-4dda-813b-625889a9550a)
+
+
 # Exemple de documentation SWAGGER de méthode "GET"
 
 ![4](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/36deab2b-4e53-48e7-a123-c4f09b934a78)
@@ -28,12 +35,4 @@
 # Affichage des étudiants par filière
 
 ![9](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/8b3da3c9-227c-4c63-8432-d0a031198e35)
-
-# Suppression d'une filière
-
-
-
-![10](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/37f013e9-cce5-400a-a481-a78da7ff6128)
-
-![11](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/d8ae902d-4cb0-4dda-813b-625889a9550a)
 
