@@ -2,6 +2,10 @@
 
 ![1](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/17453080-ffa0-4e95-99e7-762f64bee00a)
 
+# Exemple de documentation SWAGGER de méthode "GET"
+
+![4](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/36deab2b-4e53-48e7-a123-c4f09b934a78)
+
 # Affichage des filières
 
 ![2](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/80760e29-7782-4833-896d-48cb9d365180)
@@ -15,9 +19,7 @@
 ![11](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/d8ae902d-4cb0-4dda-813b-625889a9550a)
 
 
-# Exemple de documentation SWAGGER de méthode "GET"
 
-![4](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/36deab2b-4e53-48e7-a123-c4f09b934a78)
 
 # Affichage des roles
 
