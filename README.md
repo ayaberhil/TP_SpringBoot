@@ -33,6 +33,9 @@
 
 ![8](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/5f2141b0-c20c-4dfe-a0bc-04a2a5fb7373)
 
+# Modification d'un student
+
+
 
 # Affichage des étudiants par filière
 
