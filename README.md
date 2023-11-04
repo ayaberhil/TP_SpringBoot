@@ -1,16 +1,2 @@
 # TP_SpringBoot
-![1](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/f4139550-1b08-472d-83f2-7d7568beee9b)
-![2](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/317c840d-556a-4521-93a6-2a0a02a11661)
-![3](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/c23fb278-2f74-4f2f-8341-344d17323414)
-![4](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/5ad9215f-0003-41c9-9376-c44448ae98eb)
-![5](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/f5bdf780-749b-42f7-8ab7-a7dc96ef6984)
-![6](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/bc5c1368-00cf-4677-94f8-0aeb8867fa22)
-![7](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/4b779aff-f666-40b2-9c67-8f497a9f8558)
-![8](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/54251182-2793-4789-ab29-94a95558c540)
-![9](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/2811a17c-73d4-478a-a812-6868e011e8fc)
-![10](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/97d3d60e-61cd-419f-a5bc-14b6faa58b89)
-![11](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/733da9a3-78e1-4942-a5e8-6a7c6f052e10)
-![1](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/f4139550-1b08-472d-83f2-7d7568beee9b)
-![2](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/317c840d-556a-4521-93a6-2a0a02a11661)
-![3](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/c23fb278-2f74-4f2f-8341-344d17323414)
-![4](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/5ad9215f-0003-41c9-9376-c44448ae98eb)
+
