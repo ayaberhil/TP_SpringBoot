@@ -16,13 +16,13 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
    
 # Fonctionnalitées clés
 
-  &#9679;Gestion des Étudiants :Ajouter, consulter, mettre à jour et supprimer les informations des étudiants, y compris leurs noms, prénoms, adresses, date de naissance, etc.
+  &#9679;Gestion des Étudiants :  Ajouter, consulter, mettre à jour et supprimer les informations des étudiants, y compris leurs noms, prénoms, adresses, date de naissance, etc.
   
-  &#9679;Attribution de Filières aux Étudiants :Associer chaque étudiant à une filière académique spécifique pour un suivi adéquat des programmes d'études.
+  &#9679;Attribution de Filières aux Étudiants :  Associer chaque étudiant à une filière académique spécifique pour un suivi adéquat des programmes d'études.
   
-  &#9679;Attribution de Rôles aux Student :Attribuer des rôles aux étudiants en fonction de leur statut académique.
+  &#9679;Attribution de Rôles aux Student :  Attribuer des rôles aux étudiants en fonction de leur statut académique.
 
-  &#9679;Recherche et Filtrage des Étudiants :Offrir des fonctionnalités avancées de recherche et de filtrage pour identifier et afficher des groupes spécifiques d'étudiants en fonction de critères tels que la filière, le rôle, la date de naissance, etc.
+  &#9679;Recherche et Filtrage des Étudiants :  Offrir des fonctionnalités avancées de recherche et de filtrage pour identifier et afficher des groupes spécifiques d'étudiants en fonction de critères tels que la filière, le rôle, la date de naissance, etc.
 
 
 # Modèle de la base de données
