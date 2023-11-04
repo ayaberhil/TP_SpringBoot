@@ -3,11 +3,11 @@
 Ce projet est destinée à simplifier la gestion des étudiants au sein d'une institution éducative. Ce système offre des fonctionnalités essentielles pour gérer les informations des étudiants, notamment leur filière académique et leurs rôles.
 
 # Prérequis
-Kit de développement Java (JDK);
-Environnement de Développement Intégré (IDE);
-Configuration du Projet Spring Boot;
-Configuration et Documentation de Swagger;
-Postman;
+Kit de développement Java (JDK).
+Environnement de Développement Intégré (IDE).
+Configuration du Projet Spring Boot.
+Configuration et Documentation de Swagger.
+Postman.
 
 
 # Modèle de la base de données
@@ -57,14 +57,14 @@ Postman;
 
 
 # Technologies utilisées
-Spring Boot;
-Spring MVC;
-Spring Data JPA;
-Swagger;
-Postman;
-Java;
-Maven;
-JSON;
+Spring Boot.
+Spring MVC.
+Spring Data JPA.
+Swagger.
+Postman.
+Java.
+Maven.
+JSON.
 
 
 
