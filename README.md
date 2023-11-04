@@ -3,7 +3,7 @@
 Ce projet est destinée à simplifier la gestion des étudiants au sein d'une institution éducative. Ce système offre des fonctionnalités essentielles pour gérer les informations des étudiants, notamment leur filière académique et leurs rôles.
 
 # Prérequis
-Kit de développement Java (JDK).
+ &#9679; Kit de développement Java (JDK).
 
 Environnement de Développement Intégré (IDE).
 
