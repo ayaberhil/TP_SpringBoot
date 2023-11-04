@@ -4,9 +4,13 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 # Prérequis
 Kit de développement Java (JDK).
+
 Environnement de Développement Intégré (IDE).
+
 Configuration du Projet Spring Boot.
+
 Configuration et Documentation de Swagger.
+
 Postman.
 
 
@@ -58,12 +62,19 @@ Postman.
 
 # Technologies utilisées
 Spring Boot.
+
 Spring MVC.
+
 Spring Data JPA.
+
 Swagger.
+
 Postman.
+
 Java.
+
 Maven.
+
 JSON.
 
 
