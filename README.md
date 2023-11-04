@@ -1,3 +1,15 @@
+
+# Présentation du Projet
+Ce projet est destinée à simplifier la gestion des étudiants au sein d'une institution éducative. Ce système offre des fonctionnalités essentielles pour gérer les informations des étudiants, notamment leur filière académique et leurs rôles.
+
+# Prérequis
+Kit de développement Java (JDK);
+Environnement de Développement Intégré (IDE);
+Configuration du Projet Spring Boot;
+Configuration et Documentation de Swagger;
+Postman;
+
+
 # Modèle de la base de données
 
 ![1](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/17453080-ffa0-4e95-99e7-762f64bee00a)
@@ -39,9 +51,31 @@
 ![13](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/1640f578-7515-4215-b5c8-8f21186f58d6)
 
 
-
-
 # Affichage des étudiants par filière
 
 ![9](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/8b3da3c9-227c-4c63-8432-d0a031198e35)
+
+
+# Technologies utilisées
+Spring Boot;
+Spring MVC;
+Spring Data JPA;
+Swagger;
+Postman;
+Java;
+Maven;
+JSON;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
