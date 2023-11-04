@@ -5,13 +5,13 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 # Prérequis
  &#9679; Kit de développement Java (JDK).
 
-Environnement de Développement Intégré (IDE).
+ &#9679;Environnement de Développement Intégré (IDE).
 
-Configuration du Projet Spring Boot.
+ &#9679;Configuration du Projet Spring Boot.
 
-Configuration et Documentation de Swagger.
+ &#9679;Configuration et Documentation de Swagger.
 
-Postman.
+ &#9679;Postman.
 
 
 # Modèle de la base de données
@@ -61,21 +61,21 @@ Postman.
 
 
 # Technologies utilisées
-Spring Boot.
+ &#9679;Spring Boot
 
-Spring MVC.
+ &#9679;Spring MVC
 
-Spring Data JPA.
+ &#9679;Spring Data JPA
 
-Swagger.
+ &#9679;Swagger
 
-Postman.
+ &#9679;Postman
 
-Java.
+ &#9679;Java
 
-Maven.
+ &#9679;Maven
 
-JSON.
+ &#9679;JSON
 
 
 
