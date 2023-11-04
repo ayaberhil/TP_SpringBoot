@@ -77,7 +77,9 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
  &#9679;JSON
 
+ # Conclusion
 
+Ce projet montre comment la combinaison de technologies telles que Spring Boot, Swagger et Postman peut rationaliser la gestion des étudiants dans un environnement académique. Il offre une base solide pour développer davantage cette application en ajoutant de nouvelles fonctionnalités, en améliorant la sécurité, ou en l'adaptant aux besoins spécifiques de l'institution éducative.
 
 
 
