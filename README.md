@@ -34,6 +34,9 @@
 ![8](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/5f2141b0-c20c-4dfe-a0bc-04a2a5fb7373)
 
 # Modification d'un student
+![12](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/fa9f50cc-a64b-4c0b-bd02-b62d2e1c4427)
+
+![13](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/88ae847c-44cf-4662-b5b2-f4e30f41811d)
 
 
 
