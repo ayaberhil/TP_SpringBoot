@@ -81,6 +81,9 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 Ce projet montre comment la combinaison de technologies telles que Spring Boot, Swagger et Postman peut rationaliser la gestion des étudiants dans un environnement académique. Il offre une base solide pour développer davantage cette application en ajoutant de nouvelles fonctionnalités, en améliorant la sécurité, ou en l'adaptant aux besoins spécifiques de l'institution éducative.
 
+ # Set Up
+
+Vous pouvez faire le clone du projet, et lancez-le : https://github.com/ayaberhil/TP_SpringBoot.git
 
 
 
