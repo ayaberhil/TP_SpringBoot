@@ -45,6 +45,12 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 # Suppression d'une filière
 
+- SWAGGER 
+
+![15](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/fb69a07d-d003-4a35-abf1-aceb8b9e853d)
+
+- Postman
+
 ![10](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/37f013e9-cce5-400a-a481-a78da7ff6128)
 
 ![11](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/d8ae902d-4cb0-4dda-813b-625889a9550a)
