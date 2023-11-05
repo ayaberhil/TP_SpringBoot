@@ -29,13 +29,17 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 ![1](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/17453080-ffa0-4e95-99e7-762f64bee00a)
 
-# Documentation SWAGGER de méthode "GET"
 
-![14](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/1b2c0189-5a09-4b01-a760-12a8e03b41d8)
 
 # Affichage des filières
 
 ![2](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/80760e29-7782-4833-896d-48cb9d365180)
+
+- SWAGGER 
+
+![14](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/1b2c0189-5a09-4b01-a760-12a8e03b41d8)
+
+- Postman
 
 ![3](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/dc4185e6-4dbe-419e-8fe5-6a29159085b9)
 
