@@ -85,9 +85,18 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 
 # Modification d'un student
+
+- SWAGGER 
+
+![19](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/36c88e7a-af49-4abf-8b99-5ad9166e9b5b)
+
+- Postman
+
 ![12](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/7cacf701-ad9e-4ae1-9bb5-1a6e29437149)
 
-![13](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/1640f578-7515-4215-b5c8-8f21186f58d6)
+
+![20](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/5780c6b4-2f91-4092-8b76-a652651b1756)
+
 
 
 # Affichage des étudiants par filière
