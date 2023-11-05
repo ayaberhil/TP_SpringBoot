@@ -60,6 +60,12 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 # Affichage des roles
 
+- SWAGGER 
+
+![16](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/99be8211-8cbe-4e6c-b73d-4d1789f8edc9)
+
+- Postman
+
 ![5](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/534ca3e6-e706-4b5e-85dc-e4d350dc5831)
 
 ![6](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/a0e21ac6-0792-44e7-904b-a3fcf3bfdd59)
