@@ -101,6 +101,12 @@ Ce projet est destinée à simplifier la gestion des étudiants au sein d'une in
 
 # Affichage des étudiants par filière
 
+- SWAGGER 
+
+![21](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/9ce1bad9-2e71-4070-8ad4-01e6f1f01a49)
+
+- Postman
+  
 ![9](https://github.com/ayaberhil/TP_SpringBoot/assets/147451152/8b3da3c9-227c-4c63-8432-d0a031198e35)
 
 
